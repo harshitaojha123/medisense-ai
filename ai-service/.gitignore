@@ -5,8 +5,7 @@ __pycache__/
 venv/
 env/
 
-models/*.pkl
-models/*.joblib
+
 
 data/
 .env
